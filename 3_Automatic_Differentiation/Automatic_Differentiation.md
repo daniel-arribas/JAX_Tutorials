@@ -1,4 +1,4 @@
-# Phase 2: The 4 Grand Transformations - Automatic Differentiation (`grad`)
+# 4: Automatic Differentiation (`grad`)
 
 In standard Deep Learning frameworks like PyTorch or TensorFlow, gradients are computed using a **graph-based/variable-based** approach (e.g., calling `.backward()` on a loss tensor). 
 
