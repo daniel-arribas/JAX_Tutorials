@@ -1,0 +1,20 @@
+# === Python Environment ===
+.env/
+env/
+venv/
+ENV/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# === VS Code Settings ===
+.vscode/
+*.code-workspace
+
+
+# === Operating System files ===
+.DS_Store
+Thumbs.db
